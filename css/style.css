@@ -21,13 +21,16 @@ section{
     margin-left: 10%;
    
 }
+
 .hire-btn{
-    background-color: rgb(247, 108, 66);
+    background-image:linear-gradient(45deg, orange, tomato) ;
     color: white;
-    box-shadow: none;
+    
     border: none;
-    padding: 15px 40px;
+    padding: 10px 40px;
     border-radius: 5px;
     font-size: 20px;
     font-weight: bold;
+    text-decoration: none;
+
 }

@@ -7,6 +7,20 @@ body{
 h1{
     font-size: 50px;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%; 
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 75%;
+    margin-top: 6%;
+    margin-left: 10%;
+   
+}
 .hire-btn{
     background-color: rgb(247, 108, 66);
     color: white;

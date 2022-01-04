@@ -7,3 +7,13 @@ body{
 h1{
     font-size: 50px;
 }
+.hire-btn{
+    background-color: rgb(247, 108, 66);
+    color: white;
+    box-shadow: none;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
